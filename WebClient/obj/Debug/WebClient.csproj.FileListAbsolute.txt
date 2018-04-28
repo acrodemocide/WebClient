@@ -1,0 +1,10 @@
+C:\My Files\Projects\WebClient\WebClient\bin\Debug\WebClient.exe.config
+C:\My Files\Projects\WebClient\WebClient\bin\Debug\WebClient.exe
+C:\My Files\Projects\WebClient\WebClient\bin\Debug\WebClient.pdb
+C:\My Files\Projects\WebClient\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\My Files\Projects\WebClient\WebClient\obj\Debug\WebClient.exe
+C:\My Files\Projects\WebClient\WebClient\obj\Debug\WebClient.pdb
+C:\My Files\Projects\WebClient\WebClient\bin\Debug\Newtonsoft.Json.dll
+C:\My Files\Projects\WebClient\WebClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\My Files\Projects\WebClient\WebClient\bin\Debug\Newtonsoft.Json.xml
+C:\My Files\Projects\WebClient\WebClient\bin\Debug\System.Net.Http.Formatting.xml
